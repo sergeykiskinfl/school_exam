@@ -1,0 +1,35 @@
+{
+  "rowQuestions": [
+    {
+      "type": "radio",
+      "title": "Что должен знать фронтенд-разработчик? Назовите три ключевых технологии",
+      "options": [
+        "HTML, CSS и Javascript.",
+        "Kotlin, PHP и Javascript.",
+        "PHP, HTML и CSS."
+      ],
+      "rightAnswers": ["HTML, CSS и Javascript."]
+    },
+    {
+      "type": "checkbox",
+      "title": "Какие из нижеперечисленных хуков являются built-in хуками React?",
+      "options": [
+        "useState",
+        "useRef",
+        "useFutureValue"
+      ],
+      "rightAnswers": ["useState", "useRef"]
+    },
+    {
+      "type": "text",
+      "title": "Как в Javascript называется специальный объект для работы с асинхронным кодом, содержащий свое состояние?",     
+      "rightAnswers": ["Promise"]
+    },
+    {
+      "type": "multi-text",
+      "title": "Что такое HTML?",     
+      "rightAnswers": ["Язык гипертекстовой разметки, который определяет содержание и структуру веб-контента"]
+    }
+
+  ]
+}
